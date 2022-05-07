@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Oct 16 10:29:28 2020
-
-@author: akash
-"""
-
-
 import os 
   
 # Function to rename multiple files 
