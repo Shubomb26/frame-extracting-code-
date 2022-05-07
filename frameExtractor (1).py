@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Jul  4 12:17:52 2020
-
-@author: srush
-"""
-
 #from pytube import YouTube
 import time
 import os
